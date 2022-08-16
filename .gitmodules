@@ -1,0 +1,6 @@
+[submodule "videosharingapp_frontend"]
+	path = videosharingapp_frontend
+	url = https://github.com/gowthamkumar12/videosharingapp_frontend
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/gowthamkumar12/videosharingapp_frontend
